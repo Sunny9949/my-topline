@@ -43,42 +43,5 @@ footer {
     width: 100%;
 }
 
-///
-footer 2 {
-background-color: 000000
-color: black;
-text-align: center;
-padding: 20px;
-position: absoulte;
-bottom: 0;
-width: 100%;
-}
-
-
-header {
-    background-color: #003366;
-    color: white;
-    padding: 30px;
-    text-align: center;
-}
-
-nav {
-    background-color: #006699;
-    text-align: center;
-    padding: 10px 0;
-
-header{
-     background color: #003366;
-     color: grey;
-     padding: 50px;
-     text-align: right;
-}
-nav{
-background color: #003366;
-text -align: center;
-
-
-
-
 
 
